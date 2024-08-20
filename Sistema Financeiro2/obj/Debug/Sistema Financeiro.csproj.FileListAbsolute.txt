@@ -1,0 +1,183 @@
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\DataBase.mdf
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\DataBase_log.ldf
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\Sistema Financeiro.exe.config
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\Sistema Financeiro.exe
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\Sistema Financeiro.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema Financeiro.csproj.AssemblyReference.cache
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Properties.Resources.resources
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema Financeiro.csproj.GenerateResource.cache
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema Financeiro.csproj.CoreCompileInputs.cache
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema Financeiro.exe
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema Financeiro.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MetroFramework.Design.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MetroFramework.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema .A36B3528.Up2Date
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Funcionario.resources
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Pagamento.resources
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Servicos.resources
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Cliente.resources
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Menu.resources
+C:\Users\jhon_\OneDrive\Documentos\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Form1.resources
+C:\Users\jhon_\Documents\GitHub\Outros\Financeiro\Sistema Financeiro\bin\Debug\DataBase.mdf
+C:\Users\jhon_\Documents\GitHub\Outros\Financeiro\Sistema Financeiro\bin\Debug\DataBase_log.ldf
+C:\Users\jhon_\Documents\GitHub\Outros\Financeiro\Sistema Financeiro\bin\Debug\Sistema Financeiro.exe.config
+C:\Users\jhon_\Documents\GitHub\Outros\Financeiro\Sistema Financeiro\bin\Debug\Sistema Financeiro.exe
+C:\Users\jhon_\Documents\GitHub\Outros\Financeiro\Sistema Financeiro\bin\Debug\Sistema Financeiro.pdb
+C:\Users\jhon_\Documents\GitHub\Outros\Financeiro\Sistema Financeiro\obj\Debug\Sistema Financeiro.csproj.AssemblyReference.cache
+C:\Users\jhon_\Documents\GitHub\Outros\Financeiro\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Cliente.resources
+C:\Users\jhon_\Documents\GitHub\Outros\Financeiro\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Funcionario.resources
+C:\Users\jhon_\Documents\GitHub\Outros\Financeiro\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Menu.resources
+C:\Users\jhon_\Documents\GitHub\Outros\Financeiro\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Pagamento.resources
+C:\Users\jhon_\Documents\GitHub\Outros\Financeiro\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Properties.Resources.resources
+C:\Users\jhon_\Documents\GitHub\Outros\Financeiro\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Servicos.resources
+C:\Users\jhon_\Documents\GitHub\Outros\Financeiro\Sistema Financeiro\obj\Debug\Sistema Financeiro.csproj.GenerateResource.cache
+C:\Users\jhon_\Documents\GitHub\Outros\Financeiro\Sistema Financeiro\obj\Debug\Sistema Financeiro.csproj.CoreCompileInputs.cache
+C:\Users\jhon_\Documents\GitHub\Outros\Financeiro\Sistema Financeiro\obj\Debug\Sistema Financeiro.exe
+C:\Users\jhon_\Documents\GitHub\Outros\Financeiro\Sistema Financeiro\obj\Debug\Sistema Financeiro.pdb
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\DataBase.mdf
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\DataBase_log.ldf
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\Sistema Financeiro.exe.config
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\Sistema Financeiro.exe
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\Sistema Financeiro.pdb
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema Financeiro.csproj.AssemblyReference.cache
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Cliente.resources
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Funcionario.resources
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Menu.resources
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Pagamento.resources
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Properties.Resources.resources
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Servicos.resources
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema Financeiro.csproj.GenerateResource.cache
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema Financeiro.csproj.CoreCompileInputs.cache
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema Financeiro.exe
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema Financeiro.pdb
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\EntityFramework.dll
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\EntityFramework.xml
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Form1.resources
+C:\Users\jhon_\Documents\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema .A36B3528.Up2Date
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema Financeiro.csproj.AssemblyReference.cache
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Cliente.resources
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Form1.resources
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Funcionario.resources
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Menu.resources
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Pagamento.resources
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Properties.Resources.resources
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Servicos.resources
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema Financeiro.csproj.GenerateResource.cache
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema Financeiro.csproj.CoreCompileInputs.cache
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema Financeiro.exe
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema Financeiro.pdb
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\DataBase.mdf
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\DataBase_log.ldf
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\Sistema Financeiro.exe.config
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\Sistema Financeiro.exe
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\Sistema Financeiro.pdb
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\EntityFramework.dll
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\EntityFramework.SqlServer.dll
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\EntityFramework.xml
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\bin\Debug\EntityFramework.SqlServer.xml
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema .A36B3528.Up2Date
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.FormaPagamento.resources
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Compra1.resources
+G:\Outros computadores\Pedrinho-PC\GitHub\Visual Studio\Sistema Financeiro\obj\Debug\Sistema_Financeiro.Compra2.resources

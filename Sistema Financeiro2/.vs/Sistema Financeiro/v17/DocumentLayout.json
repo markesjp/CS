@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\compra2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|solutionrelative:compra2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|g:\\outros computadores\\pedrinho-pc\\github\\visual studio\\sistema financeiro\\compra2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|solutionrelative:compra2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|g:\\outros computadores\\pedrinho-pc\\github\\visual studio\\sistema financeiro\\compra2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|solutionrelative:compra2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|solutionrelative:utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\formapagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|solutionrelative:formapagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\compra1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|solutionrelative:compra1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\compra1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|solutionrelative:compra1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\formapagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|solutionrelative:formapagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\servicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|solutionrelative:servicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\servicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4407A4E-59F1-486F-B6FD-14717FBF77C0}|Sistema Financeiro.csproj|solutionrelative:servicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 343,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAA0wHEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:46:42.091Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormaPagamento.cs",
+              "DocumentMoniker": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\FormaPagamento.cs",
+              "RelativeDocumentMoniker": "FormaPagamento.cs",
+              "ToolTip": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\FormaPagamento.cs",
+              "RelativeToolTip": "FormaPagamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:16:41.293Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Compra2.Designer.cs",
+              "DocumentMoniker": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Compra2.Designer.cs",
+              "RelativeDocumentMoniker": "Compra2.Designer.cs",
+              "ToolTip": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Compra2.Designer.cs",
+              "RelativeToolTip": "Compra2.Designer.cs",
+              "ViewState": "AQIAAOMAAAAAAAAAAIAwwPIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:06:50.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Utils.cs",
+              "RelativeDocumentMoniker": "Utils.cs",
+              "ToolTip": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Utils.cs",
+              "RelativeToolTip": "Utils.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAwwFMAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:16:51.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Compra2.cs",
+              "DocumentMoniker": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Compra2.cs",
+              "RelativeDocumentMoniker": "Compra2.cs",
+              "ToolTip": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Compra2.cs",
+              "RelativeToolTip": "Compra2.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwv0kAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T20:44:08.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Compra2.cs [Design]",
+              "DocumentMoniker": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Compra2.cs",
+              "RelativeDocumentMoniker": "Compra2.cs",
+              "ToolTip": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Compra2.cs [Design]",
+              "RelativeToolTip": "Compra2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T20:43:49.956Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Menu.cs [Design]",
+              "RelativeToolTip": "Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:50:06.419Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Compra1.cs",
+              "DocumentMoniker": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Compra1.cs",
+              "RelativeDocumentMoniker": "Compra1.cs",
+              "ToolTip": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Compra1.cs",
+              "RelativeToolTip": "Compra1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:36:14.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Compra1.cs [Design]",
+              "DocumentMoniker": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Compra1.cs",
+              "RelativeDocumentMoniker": "Compra1.cs",
+              "ToolTip": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Compra1.cs [Design]",
+              "RelativeToolTip": "Compra1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:29:58.782Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormaPagamento.cs [Design]",
+              "DocumentMoniker": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\FormaPagamento.cs",
+              "RelativeDocumentMoniker": "FormaPagamento.cs",
+              "ToolTip": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\FormaPagamento.cs [Design]",
+              "RelativeToolTip": "FormaPagamento.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:14:17.177Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs [Design]",
+              "DocumentMoniker": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Cliente.cs [Design]",
+              "RelativeToolTip": "Cliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:43:38.384Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAnwD4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:43:39.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Servicos.cs [Design]",
+              "DocumentMoniker": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Servicos.cs",
+              "RelativeDocumentMoniker": "Servicos.cs",
+              "ToolTip": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Servicos.cs [Design]",
+              "RelativeToolTip": "Servicos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:19:45.375Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Servicos.cs",
+              "DocumentMoniker": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Servicos.cs",
+              "RelativeDocumentMoniker": "Servicos.cs",
+              "ToolTip": "G:\\Outros computadores\\Pedrinho-PC\\GitHub\\Visual Studio\\Sistema Financeiro\\Servicos.cs",
+              "RelativeToolTip": "Servicos.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAvwDUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:08:48.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
